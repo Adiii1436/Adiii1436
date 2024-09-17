@@ -1,7 +1,7 @@
 ![Aditya Anand](https://github.com/Adiii1436/Adiii1436/assets/73269919/b0c8e786-9418-4de6-b38c-0258d640c3a5)
 
 ## About Me:
-- 😁 Currently in third year pursing BE with specialization in AIML.
+- 😁 Currently in final year pursing BE with specialization in AIML.
 - 🔭 I’m currently working on [Datadoc](https://github.com/Adiii1436/datadoc) an AI DOC Assistant.
 - 🌱 I’m currently learning [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) and [Haiku](https://dm-haiku.readthedocs.io/en/latest/api.html#haiku-fundamentals) Neural Network Libraries.
 - 💭 Working with LLMs and frameworks such as langchain to create something fresh and interesting.
