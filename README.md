@@ -1,5 +1,3 @@
-![Aditya Anand](https://github.com/Adiii1436/Adiii1436/assets/73269919/b0c8e786-9418-4de6-b38c-0258d640c3a5)
-
 ## About Me:
 - 😁 Currently in final year pursing BE with specialization in AIML.
 - 🔭 I’m currently working on [Datadoc](https://github.com/Adiii1436/datadoc) an AI DOC Assistant.
