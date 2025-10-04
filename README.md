@@ -1,5 +1,6 @@
 ## About Me:
-- 😁 Currently in final year pursing BE with specialization in AIML.
+- 😁 Currently Working as a Data Engineer.
+- 📖 CSE'25 with specialization in AIML.
 - 🔭 I’m currently working on [Datadoc](https://github.com/Adiii1436/datadoc) an AI DOC Assistant.
 - 🌱 I’m currently learning [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) and [Haiku](https://dm-haiku.readthedocs.io/en/latest/api.html#haiku-fundamentals) Neural Network Libraries.
 - 💭 Working with LLMs and frameworks such as langchain to create something fresh and interesting.
