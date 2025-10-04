@@ -46,7 +46,7 @@
 </div>
 
 ## Connect With Me:
-<div id="badges"> <a href="https://leetcode.com/u/adiii_anand">
+<div id="badges"> <a href="https://www.linkedin.com/in/adianand912">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://medium.com/@adiii_anand">
